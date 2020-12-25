@@ -1,0 +1,8 @@
+{
+  "name": "auto-trends-car-accessory",
+  "type": "angular",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  }
+}
